@@ -15,4 +15,5 @@ How to install:
 <sup>\* Will soon make this into an extension, please wait </sup>
 
 Link survivio no lag: 
+
 http://surviv.io/?region=as&zone=syd&fbclid=IwAR2SAq6G7TXj8S3Bi9IwGsMHC3Ggb4n0NWMPhp144f73wE-ZD6istr2zIL4
