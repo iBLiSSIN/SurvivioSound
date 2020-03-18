@@ -1,4 +1,4 @@
-# Surviv.io Custom Sounds Resource V 0.0.4
+# Surviv.io Custom Sounds Resource V 0.1.3 By Susan*
 
 
 
@@ -11,6 +11,3 @@ How to install:
 5. On the top right, there is a button labeled "Options"; click on it 
 6. Click on the "Load Rules" button and select the customsoundrules.json file you should have downloaded
 
-# Link survivio no lag: 
-
-http://surviv.io/?region=as&zone=syd&fbclid=IwAR2SAq6G7TXj8S3Bi9IwGsMHC3Ggb4n0NWMPhp144f73wE-ZD6istr2zIL4
