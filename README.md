@@ -1,5 +1,4 @@
-# Surviv.io Custom Sounds Resource V 0.1.4 By Susan* and Happy birthday to Mit
-
+# Surviv.io Custom Sounds Resource V 0.1.4 By Susan* 
 
 
 ## Installation
