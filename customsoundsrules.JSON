@@ -82,5 +82,5 @@
                 {"type":"normalOverride","match":"https://surviv.io/audio/guns/vector_reload_01.mp3","replace":"https://raw.githubusercontent.com/Susan18650/SurvivioSound/master/Surviv.io%20GS/vector_reload_01.mp3","on":true},
                 {"type":"normalOverride","match":"https://surviv.io/audio/guns/vector_switch_01.mp3","replace":"https://raw.githubusercontent.com/Susan18650/SurvivioSound/master/Surviv.io%20GS/vector_switch_01.mp3","on":true},
                 {"type":"normalOverride","match":"https://surviv.io/audio/sfx/fighter_01.mp3","replace":"https://raw.githubusercontent.com/Susan18650/SurvivioSound/master/Surviv.io%20GS/Police-01.mp3","on":true},
-                {"type":"normalOverride","match":"https://surviv.io/img/main_splash.png","replace":"https://raw.githubusercontent.com/Susan18650/SurvivioSound/master/wp3883990%20(2).jpg","on":true},
+                {"type":"normalOverride","match":"https://surviv.io/img/main_splash.png","replace":"https://raw.githubusercontent.com/Susan18650/SurvivioSound/master/firewatch-video-game-sunset-in-mountains-wallpaper-3840x2160-22129_54.jpg","on":true},
                 {"type":"normalOverride","match":"https://surviv.io/audio/ambient/menu_music_01.mp3","replace":"https://raw.githubusercontent.com/Susan18650/SurvivioSound/master/Music/main_song.mp3","on":true}],"on":true}]}
